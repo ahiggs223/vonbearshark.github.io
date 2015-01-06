@@ -1,3 +1,4 @@
+=========================
 vonbearsharkchronicles.com
 =========================
 
@@ -35,8 +36,8 @@ Directory structure
 				*JSON files containing article author information.
 
 			/css
-				*Style files, such as CSS or Stylus.
-				*Generated into the base directory on build.
+				*CSS files.
+				*Generated in /css on build.
 
 			-about.md
 				*Copy for the "About" section of the footer, generated into included HTML on build.
