@@ -1,10 +1,12 @@
 {
-  "locals": {
-    "url": "http://localhost:8080",
-    "name": "The Wintersmith's blog",
-    "owner": "Someone",
-    "description": "Ramblings of an immor(t)al demigod"
-  },
+  "output": "../",
+  "locals":
+	{
+    	"url": "http://localhost:8080",
+    	"name": "Vonbearshark Chronicles",
+    	"owner": "Vonbearshark",
+    	"description": "Half bear, half shark, half cyborg."
+  	},
   "plugins": [
     "./plugins/paginator.coffee"
   ],
