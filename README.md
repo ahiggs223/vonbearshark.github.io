@@ -11,8 +11,8 @@ Run the application locally (port 8080) with 'wintersmith preview'.
 =========================
 Directory structure
 =========================
-'''
-+-- articles: Contains sub directories for all blog articles (including:)
+``
++-- articles: ontains sub directories for all blog articles (including:)
 |	+-- index.html: The HTML generated from the markdown file, as well as any multimedia files embedded in the HTML.
 +-- css: Contains generated CSS, served to the client.
 +-- page: Generated page info, served to client.
