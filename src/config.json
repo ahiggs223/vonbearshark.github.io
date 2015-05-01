@@ -3,10 +3,10 @@
 	"contents": "./contents",
 	"locals":
 	{
-    	"url": "http://localhost:8080",
+    	"url": "vonbearshark.github.io",
     	"name": "Vonbearshark Chronicles",
     	"owner": "Vonbearshark",
-    	"description": "Half bear, half shark, half cyborg."
+    	"description": "Half bear, half shark, half cyborg"
   	},
 	"plugins":
 	[
