@@ -4,7 +4,10 @@ vonbearsharkchronicles.com
 
 This is a blog am I working on for my fictional persona, VonBearshark. Though I have only just begun, I plan to have this site host short, daily, general blogs, as well as more in-depth blogs about projects or tools I am working with as parts of a larger series, in addition to my full-length fiction writing pieces, many surrounding this character, VonBearshark.
 
-The site is powered by Wintersmith, a static JS generator; templated by Jade; stylized by Stylus, a JS preprocessor, and Bootstrap (for the grid functionality); and hosted on Github Pages.
+The site is powered by Wintersmith, a static JS generator; templated by Jade; stylized by Stylus, a JS preprocessor, and Bootstrap; and hosted on Github Pages.
+
+The only dependencies are Node, the Node Package Manager, and Wintersmith, which can be installed globally via NPM:
+    npm install -g wintersmith
 
 Run the application locally (port 8080) with 'wintersmith preview'.
 
