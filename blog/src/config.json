@@ -1,6 +1,6 @@
 {
 	"output": "../../dist",
-	"contents": "./src/contents",
+	"contents": "./contents",
 	"locals":
 	{
     	"url": "vonbearshark.github.io",
