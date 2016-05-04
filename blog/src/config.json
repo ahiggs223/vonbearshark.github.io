@@ -1,11 +1,11 @@
 {
 	"output": "../../dist",
-	"contents": "./contents",
+	"contents": "./src/contents",
 	"locals":
 	{
     	"url": "vonbearshark.github.io",
-    	"name": "Vonbearshark Chronicles",
-    	"owner": "Vonbearshark",
+    	"name": "JJ Naughton",
+    	"owner": "JJ Naughton",
     	"description": "Half bear, half shark, half cyborg"
   	},
 	"plugins":
