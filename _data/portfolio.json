@@ -1,0 +1,28 @@
+{
+    "projects": [
+		{
+			"project": "Infinite Viral Chrome Extension",
+			"site": "https://chrome.google.com/webstore/detail/infinite-viral/gejghfapdoblkdeghocaggoalocccacg",
+			"repo": "https://github.com/vonbearshark/infinite-viral-extension",
+			"description": "Top 10 Reasons Only 90's Kids Won't Even Believe What This Chrome Browser Extension Does! (Number #8 Made Me Question My Sexuality!)"
+		},
+		{
+			"project": "Llamapocalypse",
+			"site": "http://llamapocalypse.herokuapp.com/",
+			"repo": "https://github.com/vonbearshark/Llamapolooza",
+			"description": "The year is 3014, and llamas have taken over humanity. The new llama order has prepared a thinly veiled PR presentation for the defeated human race."
+		},
+		{
+			"project": "Llamapocalypse First Blood: Part II",
+			"site": "https://chrome.google.com/webstore/detail/llamapocalypse-first-bloo/iognjlcbjjooclkoghpmkneghdkhaddc",
+			"repo": "https://github.com/vonbearshark/llamapocalypse-first-blood-part-II",
+			"description": "Infinite Viral Chrome extension for the inevitable llama distopia. All your headlines are belong to us."
+		},
+		{
+			"project": "Ghostbusters Inc.",
+			"site": "http://ghostbusters.herokuapp.com/",
+			"repo": "https://github.com/vonbearshark/PRWebsite",
+			"description": "I created this small site for my Public Relations coursework towards the Professional and Public Writing Ceritificate. The assignment was to quantify a company's brand and to market a website towards its intentions."
+		}
+	]
+}

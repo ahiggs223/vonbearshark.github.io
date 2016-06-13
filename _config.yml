@@ -1,0 +1,12 @@
+# meta settings
+title: JJ Naughton
+description: >
+    Full-stack web developer, student at the University of Pittsburgh, and software engineer intern at PayPal.
+baseurl: ""
+url: "http://jjnaughton.me"
+email: jjnaughton93@gmail.com
+twitter_username: vonbearshark
+github_username:  vonbearshark
+
+# build settings
+markdown: kramdown

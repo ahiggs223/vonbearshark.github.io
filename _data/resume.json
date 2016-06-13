@@ -1,0 +1,254 @@
+{
+    "coverLetterParagraphs": [
+        "I am an undergraduate CS student at the University of Pittsburgh, expected to graduate May 2017.",
+        "In December 2014 I joined OThot, a Pittsburgh-based data-science and analytics startup, as the primary frontend engineer. I used Angular.js and related technologies to develop the user interface for their analytics engine from the ground up for investor consideration.",
+        "Over the summer of 2015, I interned with PayPal as a software engineer intern at the San Jose headquarters. As a part of the Next-Gen Commerce team, I worked directly alongside senior leadership and high-profile partners in a lean agile environment. I contributed to brainstorming and prototyping the latest payments technologies.",
+        "When I returned to my studies in the fall, I joined the Pitt Quantum Repository, an open source initiative to aid in chemistry education. Using WebGL I developed the interface allowing classrooms to view and manipulate complicated 3D molecular structures in real time.",
+        "Over the summer of 2016, I returned to PayPal as a software engineer intern, this time as a part of the Kraken team. I had put in a request to become a part of this team because I strongly support open source and inner source projects, and I sought the opportunity to develop backend technologies with Node.js.",
+        "In addition to this professional experience, I have been involved with the Pitt Computer Science Club as vice president. Through the club, I have presented on various web development topics, organized multiple workshops from Pittsburgh industry leaders, and helped organize the university's first hackathon, Steelhacks.",
+        "Technically, I have the most experience with isomorphic JavaScript stacks: Node, especially Express, Seneca, and Hapi; frontend frameworks and libraries, such as Angular, Backbone, and React; in addition to HTML/Handlebars, CSS/SCSS (and frameworks such as Pure and Bootstrap), and jQuery. Most of my formal CS education is in Java and Python, and I have used Django and Flask in personal projects. In storage, I am most familiar with NoSQL databases, especially MongoDB and Cassandra, but I have used MySQL as well. For ops, I am generally familiar with git, Linux environments, Vagrant and virtual machines, and Docker and the related ecosystem.",
+        "In addition to my technical skills, I also have a wealth of communications, public relations writing, and social media management experience gained from my completed B.A. in English Writing, certificate in Professional and Public Writing, minor in Political Science, and related internships and volunteer work.",
+        "I am looking to work in the company of equally passionate creators, on projects that impact the world at large."
+    ],
+	"resume": [
+		{
+			"heading": "Relevant Experience",
+			"organizations": [
+				{
+					"name": "PayPal",
+					"location": "San Jose, CA",
+					"positions": [
+						{
+							"title": "Software Engineer Intern",
+							"date": "May-August 2016",
+							"description": "With the Kraken.js team, I developed and maintained the Node.js infrastructure for internal applications as well as open source projects."
+						}
+					]
+				},
+				{
+					"name": "Pitt Quantum Repository",
+					"location": "Pittsburgh, PA",
+					"positions": [
+						{
+							"title": "Software Engineer Intern",
+							"date": "December 2015-present",
+							"description": "With the University of Pittsburgh Quantum Institute, I developed the web frontend for the online molecular structure database, utilizing jQuery, Three.js, and WebGL."
+						}
+					]
+				},
+				{
+					"name": "PayPal",
+					"location": "San Jose, CA",
+					"positions": [
+						{
+							"title": "Software Engineer Intern",
+							"date": "May-August 2015",
+							"description": "With the Next-Gen Commerce team, I worked closely with leadership in a lean, fast-paced environment to integrate with high-profile partners and prototype next-gen products, using technologies such as Node.js, AngularJS, and Backbone.js"
+						}
+					]
+				},
+				{
+					"name": "OThot",
+					"location": "Pittsburgh, PA",
+					"positions": [
+						{
+							"title": "Software Developer",
+							"date": "December 2014-August 2015",
+							"description": "With the budding big-data startup, I prototyped the frontend data-visualization MVP and developed the foundation for the long-term product, using such technologies as: Node.js, AngularJS, D3, and jQuery."
+						}
+					]
+				}
+			]
+		},
+		{
+			"heading": "Education",
+			"organizations": [
+				{
+					"name": "University of Pittsburgh",
+					"location": "Pittsburgh, PA",
+					"positions": [
+						{
+							"title": "Bachelors of Science in Computer Science",
+							"date": "Anticipated: April 2017",
+							"description": ""
+						},
+						{
+							"title": "Bachelors of Arts in English Writing",
+							"date": "April 2015",
+							"description": ""
+						},
+						{
+							"title": "Certificate of Public Writing",
+							"date": "April 2015",
+							"description": ""
+						},
+						{
+							"title": "Dean's List",
+							"date": "Fall 2013, Spring 2014",
+							"description": ""
+						},
+						{
+							"title": "Study Abroad: Florence Italy",
+							"date": "January-April 2014",
+							"description": ""
+						}
+					]
+				}
+			]
+		},
+		{
+			"heading": "Language, Frameworks, and Tools",
+			"organizations": [
+				{
+					"name": "",
+					"location": "",
+					"positions": [
+						{
+							"title": "Frontend",
+							"date": "",
+							"description": "JavaScript, jQuery, AngularJS, Backbone.js, Mithril.js, D3, Jade, Handlebars, Sass/SCSS, Stylus"
+						},
+						{
+							"title": "Backend",
+							"date": "",
+							"description": "Node.js, Express.js, Kraken.js, Seneca.js, Meteor.js, Flask, Java"
+						},
+						{
+							"title": "Storage",
+							"date": "",
+							"description": "MySQL, MongoDB"
+						},
+						{
+							"title": "Mobile",
+							"date": "",
+							"description": "Java, Android SDK"
+						},
+						{
+							"title": "Tools",
+							"date": "",
+							"description": "Git, NPM, Bower, Gulp.js, Browserify, Webpack, Docker, Vagrant"
+						}
+					]
+				}
+			]
+		},
+		{
+			"heading": "Clubs and organizations",
+			"organizations": [
+				{
+					"name": "The Pitt Computer Science Club",
+					"location": "",
+					"positions": [
+						{
+							"title": "Vice President",
+							"date": "August 2014-present",
+							"description": "Organized workshops from industry leaders, and presented a series of talks and workshops on JavaScript and web development. Also helped organize the university’s first hackathon, SteelHacks."
+						}
+					]
+				},
+				{
+					"name": "Pittsburgh JavaScript",
+					"location": "",
+					"positions": [
+						{
+							"title": "Member",
+							"date": "August 2014-present",
+							"description": "Attended bi-weekly meet-ups for local web developers with presentations by notable contributors to open source JS projects."
+						}
+					]
+				},
+				{
+					"name": "Hackathons",
+					"location": "",
+					"positions": [
+						{
+							"title": "MHacks",
+							"date": "2015",
+							"description": ""
+						},
+						{
+							"title": "LinkedIn's HackDay",
+							"date": "2015",
+							"description": ""
+						},
+						{
+							"title": "SteelHacks",
+							"date": "2015, 2016",
+							"description": ""
+						},
+						{
+							"title": "TartanHacks",
+							"date": "2014",
+							"description": ""
+						},
+						{
+							"title": "GiveCamp",
+							"date": "2014, 2016",
+							"description": ""
+						}
+					]
+				}
+			]
+		},
+		{
+			"heading": "Other Experience",
+			"organizations": [
+				{
+					"name": "Greenspring Media",
+					"location": "Minneapolis, MN",
+					"positions": [
+						{
+							"title": "Digital Content Management Intern",
+							"date": "April-August 2014",
+							"description": "Digital media writing and editorializing."
+						}
+					]
+				},
+				{
+					"name": "CAPA/San Gaspare Elementary School",
+					"location": "Florence, Italy",
+					"positions": [
+						{
+							"title": "Volunteer",
+							"date": "January-April 2014",
+							"description": "Volunteered as an English Teaching Assistant at the elementary school, while studying in Florence, Italy."
+						}
+					]
+				},
+				{
+					"name": "Collegiate YMCA",
+					"location": "Pittsburgh, PA",
+					"positions": [
+						{
+							"title": "Americorps Community Fellow",
+							"date": "August 2011-2013",
+							"description": "Autonomously taught after-school courses focused on STEM curriculums at the Homewood YMCA."
+						}
+					]
+				},
+				{
+					"name": "Emerging Leaders",
+					"location": "Pittsburgh, PA",
+					"positions": [
+						{
+							"title": "Student Leader",
+							"date": "October-November 2012",
+							"description": "Two-month leadership program with University of Pittsburgh with classes focused on leadership and diversity. Graduated with an emblem of service."
+						}
+					]
+				},
+				{
+					"name": "Outward Bound",
+					"location": "WA",
+					"positions": [
+						{
+							"title": "Camper",
+							"date": "August 2011",
+							"description": "Two-week hiking program in the Pasayten Wilderness with the renowned leadership and team-building name."
+						}
+					]
+				}
+			]
+		}
+	]
+}
