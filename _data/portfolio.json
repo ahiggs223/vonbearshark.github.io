@@ -1,5 +1,17 @@
 {
     "projects": [
+    {
+        "project": "Pitt Quantum Repository",
+        "site": "https://pqr.pitt.edu/",
+        "repo": "https://github.com/pittquantum/PittQuantumRepository",
+        "description": "I created the Web-GL-based molecular visualizations and user interface for the Pitt Quantum Institute's molecular data for classroom purposes."
+    },
+    {
+        "project": "React SVG Donut Chart",
+        "site": "https://www.npmjs.com/package/react-donut-chart",
+        "repo": "https://github.com/vonbearshark/react-donut-chart",
+        "description": "An extendable, pure-SVG donut-chart React component npm module."
+    },
 		{
 			"project": "Infinite Viral Chrome Extension",
 			"site": "https://chrome.google.com/webstore/detail/infinite-viral/gejghfapdoblkdeghocaggoalocccacg",
